@@ -13,5 +13,5 @@ To run the experiment, step into the directory "src_code/code_to_description/":
 After running, the performance will be printed in the console, and the predicted results of test data and will be saved in the path "data/test_result/test_result.json", with ground truth and code involved for comparison.
 
 
-Note that: all the parameters are st in "src_code/code_to_description/config.py"
+Note that: all the parameters are set in "src_code/code_to_description/config.py"
 If the model has been trained, you can set the parameter "train" in line 92 in config.py to "False". Then you can predict the test data directly by using the model saved.
