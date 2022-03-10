@@ -1,5 +1,5 @@
 # PYSCRIBE
-In this work, we propose PyScribe, which expands the **Transformer model** to a new encoder-decoder architecture to incorporate **triplet positions** into the **node-level** and **edge-level features** of AST towards automatically generating comments for Python code. In the decoder, we perform a **two-stage decoding process** over the extracted node and edge features to generate comments.
+In this work, we propose PyScribe, which expands the **Transformer** model to a new encoder-decoder architecture to incorporate **triplet positions** into the **node-level** and **edge-level features** of AST towards automatically generating comments for Python code. In the decoder, we perform a **two-stage decoding process** over the extracted node and edge features to generate comments.
 
 # Runtime Environment
 Runtime Environment in our experiments:
