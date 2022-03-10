@@ -15,7 +15,7 @@ The dataset we built is in the direcotry `data/code_to_description_raw_data/`
 # Run the experiment
 1. step into the directory `src_code/code_to_description/`:
    ```angular2html
-    cd src_code/code_to_description/
+   cd src_code/code_to_description/
     ```
 2. Proprecess the train/valid/test data:
     ```angular2html
@@ -23,7 +23,7 @@ The dataset we built is in the direcotry `data/code_to_description_raw_data/`
     ```
 3. Run the model for training and testing:
    ```angular2html
-    python code2dsc_model.py
+   python code2dsc_model.py
     ```
 After running, the performance will be printed in the console, and the predicted results of test data and will be saved in the path `data/test_result/test_result.json`, with ground truth and code involved for comparison.
 
@@ -35,3 +35,5 @@ Besides, we provide a **supplementary experiment** (click **[HERE](https://githu
 <font size=2>[1] Wan, Y., Zhao, Z., Yang, M., Xu, G., Ying, H., Wu, J., Yu, P.S.: Improving automatic source code summarization via deep reinforcement learning. In: Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, pp. 397–407 (2018).
 
 [2] Hu, X., Li, G., Xia, X., Lo, D., Lu, S., Jin, Z.: Summarizing source code with transferred api knowledge. IJCAI’18, pp. 2269–2275 (2018).</font>
+
+***This paper is still under review, please do not distribute it.***
