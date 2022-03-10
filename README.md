@@ -30,7 +30,7 @@ After running, the performance will be printed in the console, and the predicted
 **Note that**: all the parameters are set in `src_code/code_to_description/config.py`
 If the model has been trained, you can set the parameter "train" in line 92 in `config.py` to "False". Then you can predict the test data directly by using the model saved in `data/model/`.
 
-Besides, we provide **supplementary experiment** (click **[here](https://github.com/GJCEXP/PYSCRIBE_supplementary)** on two other datasets including a Python dataset[1] and a Java dataset[2].
+Besides, we provide **supplementary experiment** (click **[HERE](https://github.com/GJCEXP/PYSCRIBE_supplementary)** on two other datasets including a Python dataset[1] and a Java dataset[2].
 
 <font size=2>[1] Wan, Y., Zhao, Z., Yang, M., Xu, G., Ying, H., Wu, J., Yu, P.S.: Improving automatic source code summarization via deep reinforcement learning. In: Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, pp. 397–407 (2018).
 
